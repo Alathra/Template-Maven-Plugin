@@ -1,0 +1,8 @@
+name: "${project.name}"
+main: "${project.groupId}.${project.name}.Main"
+version: "${project.version}"
+api-version: 1.19
+authors: ["AuthorName"]
+contributors: ["ContributorName"]
+depend: []
+softdepend: []
